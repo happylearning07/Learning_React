@@ -1,17 +1,2 @@
-# React.js Learning Repository
-
-This repository contains small projects and experiments created while learning **React/Next.js**.  
-The main project included here is a **To-Do List App**, built using Next.js, React Hooks, and simple state management to add and manage daily tasks.
-
-## 🧠 Projects Included
-- To-Do List App – add, delete, and manage your daily tasks.
-
-## 💻 Tech Stack
-- Next.js  
-- React.js  
-- HTML, CSS, JavaScript  
-- VS Code  
-
----
-
-📘 *This repo is part of my  learning journey and will include more mini projects in the future.*
+This is a simple ToDo App to manage Todos but doesnt use concept of local Storage i.e. data vanishes whenever browser reloads.
+<img width="1894" height="791" alt="image" src="https://github.com/user-attachments/assets/39fbe6b7-90de-458e-bcdc-13d82d291195" />
